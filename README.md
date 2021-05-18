@@ -23,7 +23,7 @@
 
 Afim de treinar tecnicas de desenvolvimento frontend desenvolvi esta landing page com a partir de um prototipo no adobe xd<i><b></b></i>
 
-<a href="https://nonatodiego.github.io/yoga-landingpage/">Demonstração</a>
+<a href="https://yoga-landingpage.vercel.app/">Demonstração</a>
 
 ## Tecnologias :rocket:
 
